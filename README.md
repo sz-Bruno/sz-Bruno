@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sz-Bruno
 - 👀 I’m interested in make a better world and a better code
-- 🌱 I’m currently learning Html,Css,Js,ReactJs
+- 🌱 I’m currently learning HTML5 | CSS3 | JavaScript| ReactJs
 
 
                                   LET'S GO?!
